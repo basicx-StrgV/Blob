@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UAXZCTlfcudeY2x8XaMhf0ZlMSZjtFlESj9m3OmZ3FCCi75/0X6++YvhPNB/yKayp3EYD351TtV+B/u0l2uInQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bjarne\\source\\repos\\Tetris\\ConsoleBlob\\ConsoleBlob.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bjarne\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.16\\microsoft.netcore.app.runtime.win-x64.3.1.16.nupkg.sha512",
+    "C:\\Users\\Bjarne\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.16\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.16.nupkg.sha512",
+    "C:\\Users\\Bjarne\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.16\\microsoft.aspnetcore.app.runtime.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\Bjarne\source\repos\Tetris\ConsoleBlob\bin\Debug\netcoreapp3.1\Blob.exe
+C:\Users\Bjarne\source\repos\Tetris\ConsoleBlob\bin\Debug\netcoreapp3.1\Blob.deps.json
+C:\Users\Bjarne\source\repos\Tetris\ConsoleBlob\bin\Debug\netcoreapp3.1\Blob.runtimeconfig.json
+C:\Users\Bjarne\source\repos\Tetris\ConsoleBlob\bin\Debug\netcoreapp3.1\Blob.runtimeconfig.dev.json
+C:\Users\Bjarne\source\repos\Tetris\ConsoleBlob\bin\Debug\netcoreapp3.1\Blob.dll
+C:\Users\Bjarne\source\repos\Tetris\ConsoleBlob\bin\Debug\netcoreapp3.1\Blob.pdb
+C:\Users\Bjarne\source\repos\Tetris\ConsoleBlob\obj\Debug\netcoreapp3.1\Blob.AssemblyInfoInputs.cache
+C:\Users\Bjarne\source\repos\Tetris\ConsoleBlob\obj\Debug\netcoreapp3.1\Blob.AssemblyInfo.cs
+C:\Users\Bjarne\source\repos\Tetris\ConsoleBlob\obj\Debug\netcoreapp3.1\Blob.csproj.CoreCompileInputs.cache
+C:\Users\Bjarne\source\repos\Tetris\ConsoleBlob\obj\Debug\netcoreapp3.1\Blob.dll
+C:\Users\Bjarne\source\repos\Tetris\ConsoleBlob\obj\Debug\netcoreapp3.1\Blob.pdb
+C:\Users\Bjarne\source\repos\Tetris\ConsoleBlob\obj\Debug\netcoreapp3.1\Blob.genruntimeconfig.cache

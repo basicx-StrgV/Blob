@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vZbHUYavCjzss0uwy+XsAqJlQEhwAOEWxmuNXGfhiBMxwPaDH3D575Iptd1neu0/tbm24SVA/9kBFAEcpsxewg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bjarne\\source\\repos\\Tetris\\Tetris\\ConsoleBlob.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bjarne\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\3.1.9\\microsoft.netcore.app.runtime.linux-x64.3.1.9.nupkg.sha512",
+    "C:\\Users\\Bjarne\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\3.1.9\\microsoft.aspnetcore.app.runtime.linux-x64.3.1.9.nupkg.sha512",
+    "C:\\Users\\Bjarne\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\3.1.9\\microsoft.netcore.app.host.linux-x64.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}
