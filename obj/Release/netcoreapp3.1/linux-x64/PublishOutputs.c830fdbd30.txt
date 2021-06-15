@@ -1,2 +1,0 @@
-C:\VisualStudio_Publish\ConsoleBlob.pdb
-C:\VisualStudio_Publish\ConsoleBlob
