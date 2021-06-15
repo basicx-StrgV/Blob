@@ -1,2 +1,2 @@
 # Blob
- Blob is a friendly slime for your terminal
+ Blob is a friendly alien for your terminal
