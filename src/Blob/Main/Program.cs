@@ -65,12 +65,6 @@ namespace Blob
                         MhMode();
                         break;
                 }
-
-                if (Console.KeyAvailable)
-                {
-
-                }
-                
             }
         }
 

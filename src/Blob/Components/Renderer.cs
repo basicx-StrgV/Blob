@@ -12,6 +12,9 @@ namespace Blob
         private readonly int _startRow;
         private readonly int _endRow;
 
+        private int _bufferWidth;
+        private int _bufferHeight;
+
         private readonly string _emptyField = "▓▓";//▓▓
         private readonly string _setField = "▒▒";//▒▒
 
@@ -19,6 +22,22 @@ namespace Blob
         {
             _startRow = Console.CursorTop + 1;
             _endRow = _startRow + Fields.Blob.Length;
+
+            _bufferWidth = Console.BufferWidth;
+            _bufferHeight = Console.BufferHeight;
+
+            if (_bufferWidth < Fields.Blob[0].Length)
+            {
+                Console.BufferWidth = Fields.Blob[0].Length + 1;
+            }
+
+            if (_bufferHeight <= Fields.Blob.Length)
+            {
+                Console.BufferHeight = Fields.Blob.Length + 1;
+            }
+
+            Console.WindowWidth = _bufferWidth;
+            Console.WindowHeight = Fields.Blob.Length + 2;
         }
 
         public void Start()
